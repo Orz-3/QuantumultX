@@ -6,7 +6,9 @@
 
 @lhie1 复写规则，由NobyDa整理
 
-@KOP-XIAO IP-API，资源转换器
+@KOP-XIAO 资源解析器
+
+@Jason Lee IP-API
 
 @NobyDa 贴吧，吾爱，爱奇艺签到等
 
