@@ -8,7 +8,7 @@
 
 @KOP-XIAO 资源解析器
 
-@Jason Lee IP-API
+@JasonLee-Go IP-API
 
 @NobyDa 贴吧，吾爱，爱奇艺签到等
 
