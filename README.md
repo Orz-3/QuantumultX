@@ -1,4 +1,4 @@
-## QuantumultX小白简洁配置，以神机规则为基础
+## QuantumultX小白配置
 
 ### 使用方法：
 
