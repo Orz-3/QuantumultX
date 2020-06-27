@@ -1,17 +1,19 @@
 # QuantumultX
 
-自用QuantumultX规则及脚本，收集整理自以下dalao
+小白简洁配置，以神机规则为基础，收集整理自以下大佬
 
-@ConnersHua 神机规则
+@ConnersHua
 
-@lhie1 复写规则，由NobyDa整理
+@KOP-XIAO
 
-@KOP-XIAO 资源解析器
+@JasonLee-Go
 
-@JasonLee-Go IP-API
+@NobyDa
 
-@NobyDa 贴吧，吾爱，爱奇艺签到等
+@chavyleung
 
-@chavyleung WPS签到
+@Peng-YM
 
-wzw1997007&Choler  TikTok
+@zZPiglet
+
+@Sunert
