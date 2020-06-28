@@ -37,18 +37,18 @@
 
 ######  配置中内容收集整理自以下大佬
 
-@ConnersHua
+* [@ConnersHua](https://github.com/ConnersHua)
 
-@KOP-XIAO
+* [@KOP-XIAO](https://github.com/KOP-XIAO)
 
-@JasonLee-Go
+* [@JasonLee-Go](https://github.com/JasonLee-Go)
 
-@NobyDa
+* [@NobyDa](https://github.com/NobyDa)
 
-@chavyleung
+* [@chavyleung](https://github.com/chavyleung)
 
-@Peng-YM
+* [@Peng-YM](https://github.com/Peng-YM)
 
-@zZPiglet
+* [@zZPiglet](https://github.com/zZPiglet)
 
-@Sunert
+* [@Sunert](https://github.com/Sunert)
