@@ -43,7 +43,7 @@
 
 ######  配置中内容收集整理自以下大佬
 
-####特别感谢：
+#### 特别感谢：
 
   * [@ConnersHua](https://github.com/ConnersHua)
 
@@ -53,7 +53,7 @@
 
   * [@NobyDa](https://github.com/NobyDa)
   
-  ####Task脚本作者：
+  #### Task脚本作者：
 
   * [@chavyleung](https://github.com/chavyleung)
 
