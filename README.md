@@ -43,6 +43,8 @@
 
 ######  配置中内容收集整理自以下大佬
 
+####特别感谢：
+
   * [@ConnersHua](https://github.com/ConnersHua)
 
   * [@KOP-XIAO](https://github.com/KOP-XIAO)
@@ -50,6 +52,8 @@
   * [@JasonLee-Go](https://github.com/JasonLee-Go)
 
   * [@NobyDa](https://github.com/NobyDa)
+  
+  ####Task脚本作者：
 
   * [@chavyleung](https://github.com/chavyleung)
 
@@ -58,3 +62,19 @@
   * [@zZPiglet](https://github.com/zZPiglet)
 
   * [@Sunert](https://github.com/Sunert)
+  
+  * [@lowking](https://github.com/lowking)
+    
+  * [@toulanboy](https://github.com/toulanboy)
+  
+  * [@lxk0301](https://gitee.com/lxk0301)
+  
+  * [@vinewx](https://ooxx.be/js/)
+  
+  * [@chouchoui](https://github.com/chouchoui)
+  
+  * [@iepngs](https://github.com/iepngs)  
+  
+  
+      
+      
