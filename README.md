@@ -66,6 +66,8 @@
   * [@Sunert](https://github.com/Sunert)
   
   * [@lowking](https://github.com/lowking)
+  
+  * [@songyangzz](https://github.com/songyangzz)
     
   * [@toulanboy](https://github.com/toulanboy)
   
@@ -75,8 +77,14 @@
   
   * [@chouchoui](https://github.com/chouchoui)
   
+  * [@evilbutcher](https://github.com/evilbutcher)  
+  
+  * [@id77](https://github.com/id77)   
+  
+  * [@dompling](https://github.com/dompling)  
+  
   * [@iepngs](https://github.com/iepngs)  
   
-  
+  * [@photonmang](https://github.com/photonmang) 
       
       
