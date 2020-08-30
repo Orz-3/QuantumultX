@@ -84,7 +84,4 @@
   * [@dompling](https://github.com/dompling)  
   
   * [@iepngs](https://github.com/iepngs)  
-  
-  * [@photonmang](https://github.com/photonmang) 
-      
-      
+ 
