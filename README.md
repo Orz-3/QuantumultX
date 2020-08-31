@@ -53,8 +53,16 @@
 
   * [@JasonLee-Go](https://github.com/JasonLee-Go)
 
-  * [@NobyDa](https://github.com/NobyDa)
-  
+ #### JS脚本作者： 
+
+ * [@NobyDa](https://github.com/NobyDa)
+ 
+ * [@yichahucha](https://github.com/yichahucha)
+
+ * [@onewayticket255](https://github.com/onewayticket255)
+
+ * [@Choler](https://github.com/Choler)
+ 
   #### Task脚本作者：
 
   * [@chavyleung](https://github.com/chavyleung)
