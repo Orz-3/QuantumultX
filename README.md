@@ -92,12 +92,8 @@
   * [@dompling](https://github.com/dompling)  
   
   * [@iepngs](https://github.com/iepngs)  
- 
-  * [@wangdelu2020](https://github.com/wangdelu2020) 
   
   * [@barrym-chen](https://github.com/barrym-chen) 
-  
-  * [@ziye12](https://github.com/ziye12)
 
   * [@iisams](https://github.com/iisams)
   
