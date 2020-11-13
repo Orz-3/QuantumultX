@@ -1,0 +1,8 @@
+{
+    "name": "songyangzz",
+    "description": "https://github.com/songyangzz/QuantumultX",
+    "task": [
+        "1 0 * * * https://raw.githubusercontent.com/songyangzz/QuantumultX/master/elem/elemSign.js, tag=饿了么, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/elem.png, enabled=false",
+        "1 0 * * * https://raw.githubusercontent.com/songyangzz/QuantumultX/master/lol.js, tag=LOL排行查询, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/lol.png, enabled=false",
+    ]
+}
