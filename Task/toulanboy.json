@@ -2,8 +2,8 @@
     "name": "toulanboy",
     "description": "https://github.com/toulanboy/scripts",
     "task": [
-        "5 0 * * * https://raw.githubusercontent.com/toulanboy/scripts/master/muchong/muchong.js, tag=小木虫论坛, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/muchong.png, enabled=false",
-        "5 0 * * * https://raw.githubusercontent.com/toulanboy/scripts/master/weibo/weibotalk.js, tag=微博超话, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/weibo.png, enabled=false",
-        "5 0 * * * https://raw.githubusercontent.com/toulanboy/scripts/master/jd_price_detect/jd_price_detect.js, tag=京东价格提醒, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=false",
+        "5 0 * * * https://raw.githubusercontent.com/toulanboy/scripts/master/muchong/muchong.js, tag=小木虫论坛, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/muchong.png, enabled=true",
+        "5 0 * * * https://raw.githubusercontent.com/toulanboy/scripts/master/weibo/weibotalk.js, tag=微博超话, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/weibo.png, enabled=true",
+        "5 0 * * * https://raw.githubusercontent.com/toulanboy/scripts/master/jd_price_detect/jd_price_detect.js, tag=京东价格提醒, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
     ]
 }
