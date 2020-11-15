@@ -2,14 +2,14 @@
     "name": "iepngs",
     "description": "https://raw.githubusercontent.com/iepngs/Script/master",
     "task": [
-        "0 9 * * * https://raw.githubusercontent.com/iepngs/Script/master/lxhealth/manual.js, tag=步数上传, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/lxhealth.png, enabled=false",
-        "0 9 * * * https://raw.githubusercontent.com/iepngs/Script/master/studygolang/index.js, tag=go语言中文网, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/studygolang.png, enabled=false",
-        "29 8 * * * https://raw.githubusercontent.com/iepngs/Script/master/ctrip/index.js,tag=携程旅行, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/ctrip.png, enabled=false",
-        "0 9 * * * https://raw.githubusercontent.com/iepngs/Script/master/lxsj/index.js,tag=旅行世界购物版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/lxsj.png, enabled=false",
-        "55 23 * * * https://raw.githubusercontent.com/lxk0301/scripts/master/jd_unsubscribe.js, tag=取关京东店铺商品, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=false",
-        "11 5 * * * https://raw.githubusercontent.com/lxk0301/scripts/master/jd_blueCoin.js, tag=京小超领蓝币, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=false",
-        "10 0 * * * https://raw.githubusercontent.com/lxk0301/scripts/master/jd_shop.js, tag=进店领豆, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=false",
-        "1 1 * * * https://raw.githubusercontent.com/lxk0301/scripts/master/jd_redPacket.js, tag=京东全民开红包, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=false",
-        "5 0 * * * https://raw.githubusercontent.com/lxk0301/scripts/master/jd_club_lottery.js, tag=摇京豆, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=false",
+        "0 9 * * * https://raw.githubusercontent.com/iepngs/Script/master/lxhealth/manual.js, tag=步数上传, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/lxhealth.png, enabled=true",
+        "0 9 * * * https://raw.githubusercontent.com/iepngs/Script/master/studygolang/index.js, tag=go语言中文网, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/studygolang.png, enabled=true",
+        "29 8 * * * https://raw.githubusercontent.com/iepngs/Script/master/ctrip/index.js,tag=携程旅行, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/ctrip.png, enabled=true",
+        "0 9 * * * https://raw.githubusercontent.com/iepngs/Script/master/lxsj/index.js,tag=旅行世界购物版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/lxsj.png, enabled=true",
+        "55 23 * * * https://raw.githubusercontent.com/lxk0301/scripts/master/jd_unsubscribe.js, tag=取关京东店铺商品, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
+        "11 5 * * * https://raw.githubusercontent.com/lxk0301/scripts/master/jd_blueCoin.js, tag=京小超领蓝币, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
+        "10 0 * * * https://raw.githubusercontent.com/lxk0301/scripts/master/jd_shop.js, tag=进店领豆, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
+        "1 1 * * * https://raw.githubusercontent.com/lxk0301/scripts/master/jd_redPacket.js, tag=京东全民开红包, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
+        "5 0 * * * https://raw.githubusercontent.com/lxk0301/scripts/master/jd_club_lottery.js, tag=摇京豆, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
     ]
 }
