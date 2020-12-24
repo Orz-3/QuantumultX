@@ -6,14 +6,15 @@
         "1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Blibee/Blibee.js, tag=便利蜂, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Blibee.png, enabled=true",
         "1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/DiDi/DiDi.js, tag=滴滴出行, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/didi.png, enabled=true",
         "59 23 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/DiDi/DiDi_reward.js, tag=滴滴出行, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/didi.png, enabled=true",
+        "0 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Domino/Domino_getSMS.js, tag=达美乐, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Domino.png, enabled=true",
         "1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Haidilao/Haidilao.js, tag=海底捞, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/haidilao.png, enabled=true",
+        "0 7 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/MovieCalendar/MovieCalendar.js, tag=电影日历, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/MovieCalendar.png, enabled=true",
         "1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Naixue/Naixue.js, tag=奈雪, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Naixue.png, enabled=true",
+        "1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean.js, tag=欧可林, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Oclean.png, enabled=true",
+        "0 * * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Weibo/Weibo.js, tag=微博通知, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/weibo.png, enabled=true",        
         "1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/ZMTeacher/ZMTeacher.js, tag=掌门好老师, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/ZMTeacher.png, enabled=true",
         "1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/elem/elemCheckIn.js, tag=饿了么-打卡领红包, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/elem.png, enabled=true",
-        "1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean.js, tag=欧可林, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Oclean.png, enabled=true",
         "0 * * * * https://raw.githubusercontent.com/zZPiglet/Task/master/heybox/heybox.js, tag=小黑盒, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/heybox.png, enabled=true",
-        "0 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Domino/Domino_getSMS.js, tag=达美乐, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Domino.png, enabled=true",
-        "0 7 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/MovieCalendar/MovieCalendar.js, tag=电影日历, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/MovieCalendar.png, enabled=true",
         "0 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/umetrip/umetrip.js, tag=航旅纵横, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/umetrip.png, enabled=true",
     ]
 }
