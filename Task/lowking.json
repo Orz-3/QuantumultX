@@ -1,0 +1,12 @@
+{
+    "name": "lowking",
+    "description": "https://github.com/lowking/Scripts",
+    "task": [
+        "0 0 0,1 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/QQPet/lkQQPet.js, tag=QQ萌宠, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/QQ.png, enabled=true",
+        "0 0 0,1 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/QQVip/qqVipCheckIn.js, tag=qq会员成长值, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/qqvip.png, enabled=true",
+        "0 0 0,1 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/bilibili/bangumiMonitor.js, tag=哔哩哔哩番剧监控, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/bilibili.png, enabled=true",
+        "0 0 0,1 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/douyu/yubaSign.js, tag=斗鱼鱼吧, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/douyu.png, enabled=true",
+        "0 0 0 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/sony/sonyClub.js, tag=索尼俱乐部, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/SONY.png, enabled=true",
+        "0 0 0,1 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/weibo/weiboSTCookie.js, tag=微博超话, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/weibo.png, enabled=true",
+    ]
+}
