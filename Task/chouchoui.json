@@ -2,7 +2,7 @@
     "name": "chouchoui",
     "description": "https://github.com/chouchoui/QuanX/tree/master/Scripts",
     "task": [
-        "30 8,13,19 * * * https://raw.githubusercontent.com/chouchoui/QuanX/master/Scripts/angelalign/angelalign.task.js, tag=时代天使,, img-url=https://raw.githubusercontent.com/Orz-3/task/master/angelalign.png, enabled=true",
-        "10 0 * * * https://raw.githubusercontent.com/chouchoui/QuanX/master/Scripts/nga/nga.js, tag=NGA刮墙, img-url=https://raw.githubusercontent.com/Orz-3/task/master/nga.png, enabled=true",
+        "30 8,13,19 * * * https://raw.githubusercontent.com/chouchoui/QuanX/master/Scripts/angelalign/angelalign.task.js, tag=时代天使,, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/angelalign.png, enabled=true",
+        "10 0 * * * https://raw.githubusercontent.com/chouchoui/QuanX/master/Scripts/nga/nga.js, tag=NGA刮墙, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/nga.png, enabled=true",
     ]
 }
