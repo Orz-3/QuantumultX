@@ -63,9 +63,9 @@
 
  * [@Choler](https://github.com/Choler)
  
- * [@srk24](]https://github.com/srk24)
+ * [@srk24](https://github.com/srk24)
  
- * [@blackmatrix7](]https://github.com/blackmatrix7)
+ * [@blackmatrix7](https://github.com/blackmatrix7)
  
   #### Task脚本作者：
 
