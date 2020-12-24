@@ -1,0 +1,7 @@
+{
+    "name": "photonmang",
+    "description": "https://github.com/photonmang/quantumultX",
+    "task": [
+        "10 0 8 * * * https://raw.githubusercontent.com/photonmang/quantumultX/master/tuhu/tuhu.js, tag=途虎养车, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/tuhu.png, enabled=true"
+    ]
+}
