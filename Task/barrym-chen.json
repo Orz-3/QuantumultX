@@ -1,0 +1,15 @@
+{
+    "name": "barrym-chen",
+    "description": "https://github.com/barrym-chen/Script",
+    "task": [
+        "0 0 * * * https://raw.githubusercontent.com/barrym-chen/Script/master/ctrip/ctrip.js, tag=携程旅行, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/ctrip.png, enabled=true",
+        "0 0 * * * https://raw.githubusercontent.com/barrym-chen/Script/master/ctrip_wx/ct_sign.js, tag=携程小程序, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/ctrip.png, enabled=true",
+        "0 0 * * * https://raw.githubusercontent.com/barrym-chen/Script/master/elong/elong_draw.js, tag=艺龙酒店, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/elong.png, enabled=true",
+        "0 0 * * * https://raw.githubusercontent.com/barrym-chen/Script/master/fcz/fcz_sign.js, tag=飞常准, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/fcz.png, enabled=true",
+        "0 0 * * * https://raw.githubusercontent.com/barrym-chen/Script/master/icbc/icbc_sign.js, tag=工银e生活, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/icbc.png, enabled=true",
+        "0 0 * * * https://raw.githubusercontent.com/barrym-chen/Script/master/jdczf/jdczf.js, tag=京东成长分, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jdczf.png, enabled=true",
+        "0 0 * * * https://raw.githubusercontent.com/barrym-chen/Script/master/tongc/tongc_sign.js, tag=同程小程序, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/tongc.png, enabled=true",
+        "1 0 * * * https://raw.githubusercontent.com/barrym-chen/Script/master/tongc/tongc_info.js, tag=同程小程序, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/tongc.png, enabled=true",
+    
+     ]
+}   
