@@ -1,0 +1,8 @@
+{
+    "name": "congcong0806",
+    "description": "https://github.com/congcong0806?tab=repositories",
+    "task": [
+        "0 8 * * * https://github.com/congcong0806/surge-list/raw/master/Script/daysmatter.js, tag= 倒数日, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/daysmatter.png, enabled=true",
+        "0 7-23 * * * https://github.com/congcong0806/surge-list/raw/master/Script/time.js, tag= 今日时间, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/time.png, enabled=true",
+    ]
+}    
