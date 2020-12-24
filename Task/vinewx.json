@@ -1,0 +1,9 @@
+{
+    "name": "vinewx",
+    "description": "https://ooxx.be/js/",
+    "task": [
+        "0 9 * * * https://ooxx.be/js/jegotrip.js, tag=无忧行, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jegotrip.png, enabled=true",
+        "0 18 * * * https://ooxx.be/js/maoyan.js, tag=猫眼电影, img-url=https://raw.githubusercontent.com/Orz-3/task/master/maoyan.png, enabled=true",
+        "0 9 * * * https://ooxx.be/js/umer.js, tag=优麦医生, img-url=https://raw.githubusercontent.com/Orz-3/task/master//umer.png, enabled=true",
+    ]
+}
