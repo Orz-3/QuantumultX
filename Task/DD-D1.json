@@ -15,5 +15,5 @@
         "0 10  * * * https://raw.githubusercontent.com/DD-D1/2020scripts/master/yzkbSign.js, tag= 柚子快报, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/yzkb.png, enabled=true"    
         "0 10  * * * https://raw.githubusercontent.com/DD-D1/2020scripts/master/zscdbSign.js, tag=追书畅读版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/zscdb.png, enabled=true"
         "0 10  * * * https://raw.githubusercontent.com/DD-D1/2020scripts/master/zymkSign.js, tag= 知音漫客, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/zymk.png, enabled=true"    
-      ]
+    ]
 }  
