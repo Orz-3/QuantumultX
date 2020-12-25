@@ -6,7 +6,7 @@
     "10 0 * * * https://raw.githubusercontent.com/id77/QuantumultX/master/task/yiLi.js, tag=伊利乳品, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/yiLi.png, enabled=true",
     "0 1 * * * https://raw.githubusercontent.com/id77/QuantumultX/master/task/thg.js, tag=太好购, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/thg.png, enabled=true",
     "5 10 * * * https://raw.githubusercontent.com/id77/QuantumultX/master/task/163GameVip.js, tag=网易游戏会员签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/163GameVip.png, enabled=true",
-    "6 0 * * * https://raw.githubusercontent.com/id77/QuantumultX/master/task/geekhub.js, tag=geekhub, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/geekhub.png, enabled=true"
+    "6 0 * * * https://raw.githubusercontent.com/id77/QuantumultX/master/task/geekhub.js, tag=geekhub, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/geekhub.png, enabled=true",
   ],
 
 }
