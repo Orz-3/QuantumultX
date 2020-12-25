@@ -2,6 +2,7 @@
     "name": "Sunert",
     "description": "https://github.com/Sunert/Scripts/tree/master/Task",
     "task": [
+        "0 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/NOWLIVE.js, tag=NOW直播, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/NOWLIVE.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/dianshijia.js, tag=电视家, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/dianshijia.png, enabled=true",
         "0 10 8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/exchangeRate.js, tag=实时货币换算, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/exchangerate.png, enabled=true",
         "30 10  * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jddj.js, tag=京东到家 ,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jddj.png, enabled=true",
