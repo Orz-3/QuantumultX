@@ -3,6 +3,5 @@
     "description": "https://gitee.com/passerby-b/javascript",
     "task": [
         "0 9 * * * https://gitee.com/passerby-b/javascript/raw/master/unipay.js, tag=云闪付, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/unipay.png, enabled=true",
-        "0 9 * * * https://gitee.com/passerby-b/javascript/blob/master/faLoo_book.js, tag=飞卢小说, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/faLoo.png, enabled=true"
     ]
 }
