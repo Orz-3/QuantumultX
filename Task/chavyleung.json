@@ -35,7 +35,7 @@
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/midu/miduSign.js, tag=米读签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/midu.png, enabled=true",
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/midu/miduRead.js, tag=米读阅读时长, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/midu.png, enabled=true",
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/mihoyo/mihoyo.js, tag=米游社, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/mihoyo.png, enabled=true",
-        "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/neteasemusic/quanx/neteasemusic.js, tag=网易云音乐, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/nteasemusic.png, enabled=true",
+        "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/neteasemusic/quanx/neteasemusic.js, tag=网易云音乐, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/neteasemusic.png, enabled=true",
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/neteasenews/neteasenews.js, tag=网易新闻, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/neteasenews.png, enabled=true",
         "10 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/nfzm/nfzm.js, tag=南方周末, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/nfzm.png, enabled=true",
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/nio/nio.js, tag=蔚来, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/nio.png, enabled=true",
