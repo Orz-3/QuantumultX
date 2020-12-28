@@ -37,6 +37,6 @@
     "1 0,20,9-23/2 15-31 12 * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live_redrain.js, tag=直播红包雨, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
     "10 12 1-31 12 * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jr_sign.js, tag=京东金融打卡, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
     "15 17 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/backUp/xmSports.js, tag=小米运动, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true"
-    "1 7-21/2 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_plantBean.js, tag=种豆得豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzd.png, enabled=true"
+    "1 7-21/2 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_plantBean.js, tag=种豆得豆, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true"
   ]
 }
