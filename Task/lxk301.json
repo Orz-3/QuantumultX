@@ -15,7 +15,7 @@
     "0 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_blueCoin.js , tag=京小超兑换奖品 , img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
     "55 23 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_unsubscribe.js , tag=取关京东店铺商品 , img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
     "10 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_shop.js , tag=进店领豆 , img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
-    "15 10 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy_run.js , tag=宠汪汪邀请助力与赛跑助力 , img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=tru",
+    "15 10 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy_run.js , tag=宠汪汪邀请助力与赛跑助力 , img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
     "1 1 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_redPacket.js , tag=京东全民开红包 , img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
     "2 9 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_bean_change.js , tag=京豆变动通知 , img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
     "20 0,20 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_necklace.js , tag=点点券 , img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
