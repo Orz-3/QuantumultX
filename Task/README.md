@@ -16,7 +16,7 @@
 
   5.点击 好<br>
   
- * [@➽NobyDa] (https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Task/Nobyda.json)
+ * [@➽NobyDa](https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Task/Nobyda.json)
 
 京东多合一|爱奇艺|吾爱破解|哔哩哔哩漫画|百度贴吧|快看漫画
 
