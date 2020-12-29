@@ -2,11 +2,11 @@
     "name": "dompling",
     "description": "https://github.com/dompling/Script",
     "task": [
-        "1 0 * * * https://raw.githubusercontent.com/dompling/Script/master/birthdayCountDown/index.js, tag=生日倒计时, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/birthday.png, enabled=false",
-        "1 0 * * * https://raw.githubusercontent.com/dompling/Script/master/biyao/biyao.js, tag=必要, img-url=https://raw.githubusercontent.com/Orz-3/task/mini/biyao.png, enabled=false",
-        "1 9 * * * https://raw.githubusercontent.com/dompling/Script/master/historyToday/index.js, tag=历史上的今天, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/historyToday.png, enabled=false",
-        "1 9 * * * https://raw.githubusercontent.com/dompling/Script/master/oneSay/oneSay.js, tag=每日一言, img-url=https://raw.githubusercontent.com/Orz-3/task/mini/calendar.png, enabled=false",
-        "1 9 * * * https://raw.githubusercontent.com/dompling/Script/master/xiaomiyp/xiaomiyp.js, tag=小米有品, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/xiaomiyp.png, enabled=false",
-        "10 0 * * * https://raw.githubusercontent.com/dompling/Script/master/ymatou/ymatou.js, tag=洋码头, img-url=https://raw.githubusercontent.com/Orz-3/task/mini/ymatou.png, enabled=false",
+        "1 0 * * * https://raw.githubusercontent.com/dompling/Script/master/birthdayCountDown/index.js, tag=生日倒计时, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/birthday.png, enabled=true",
+        "1 0 * * * https://raw.githubusercontent.com/dompling/Script/master/biyao/biyao.js, tag=必要, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/biyao.png, enabled=true",
+        "1 9 * * * https://raw.githubusercontent.com/dompling/Script/master/historyToday/index.js, tag=历史上的今天, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/historyToday.png, enabled=true",
+        "1 9 * * * https://raw.githubusercontent.com/dompling/Script/master/oneSay/oneSay.js, tag=每日一言, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/calendar.png, enabled=true",
+        "1 9 * * * https://raw.githubusercontent.com/dompling/Script/master/xiaomiyp/xiaomiyp.js, tag=小米有品, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/xiaomiyp.png, enabled=true",
+        "10 0 * * * https://raw.githubusercontent.com/dompling/Script/master/ymatou/ymatou.js, tag=洋码头, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/ymatou, enabled=true",
             ]
 }
