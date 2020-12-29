@@ -36,11 +36,11 @@
 
   4.集成了Nobyda库中的去广告类js<br>
 
-  5.集成大量task，默认皆为禁用，请根据需求启用，启用需额外在重写中启用JS-GetCookie，并按脚本中说明获取cookie方可用<br>
+  5.Task请在Task文件夹内按需求添加订阅，使用需额外在重写中启用JS-GetCookie，并按脚本中说明获取cookie方可用<br>
 
   6.如果你购买Quantumult X还不足30天，无法一键更新，在启用Get-Cookie时，请搜索并单独缓存你需要的获取cookie脚本<br>
 
-  7.默认已解锁Tiktok<br>
+  7.默认已解锁Tiktok日区<br>
 
 
 ######  配置中内容收集整理自以下大佬 （Task脚本作移动到Task文件夹下的readme中）
