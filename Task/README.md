@@ -95,6 +95,10 @@ QQ阅读|海德汇一城|民盈国贸城|趣客有礼|水滴筹保险商城小�
 ➽ [passerby-b](https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Task/passerby-b.json)
 
 云闪付
+
+➽ [photonmang](https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Task/photonmang.json)
+
+途虎养车
   
  
   #### Task脚本作者：
