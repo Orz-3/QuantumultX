@@ -19,5 +19,7 @@
         "0 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/txnews.js, tag=腾讯新闻, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/txnews.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/weibo.js, tag=微博, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/weibo.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/youth.png, enabled=true",
+         "*/10 */3 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jukan.js, tag=聚看点 ,img-url=https://github.com/Sunert/ProxyConfig/raw/master/QuantumultX/Rules/Images/ICON/jukan.png",
+         "*/30 * * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baidu_speed.js, tag=百度极速版 ,img-url=https://github.com/Sunert/ProxyConfig/raw/master/QuantumultX/Rules/Images/ICON/baiduspeed.png"
     ]
 }
