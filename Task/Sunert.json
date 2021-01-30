@@ -2,11 +2,11 @@
     "name": "Sunert",
     "description": "https://github.com/Sunert/Scripts/tree/master/Task",
     "task": [
-        "0 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/NOWLIVE.js, tag=NOW直播, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/NOWLIVE.png, enabled=true",
+        "0 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/Sunert-patch-1/Task/NOWLIVE.js, tag=NOW直播, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/NOWLIVE.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/dianshijia.js, tag=电视家, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/dianshijia.png, enabled=true",
         "0 10 8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/exchangeRate.js, tag=实时货币换算, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/exchangerate.png, enabled=true",
         "30 10  * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jddj.js, tag=京东到家 ,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jddj.png, enabled=true",
-        "0 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jingxi.js, tag=京喜, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jingxi.png, enabled=true",
+        "0 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/Sunert-patch-1/Task/jingxi.js, tag=京喜, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jingxi.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/kuaishou.js, tag=快手极速版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/kuaishou.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/lkyl.js, tag=来客有礼, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/lkyl.png, enabled=true",
         "7 0 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/moji.js, tag=墨迹天气 ,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/moji.png, enabled=true",
