@@ -2,13 +2,13 @@
     "name": "lowking",
     "description": "https://github.com/lowking/Scripts",
     "task": [
-        "0 0 0,1 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/QQPet/lkQQPet.js, tag=QQ萌宠, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/QQ.png, enabled=true",
-        "0 0 0,1 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/QQVip/qqVipCheckIn.js, tag=qq会员成长值, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/qqvip.png, enabled=true",
-        "0 0 0,1 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/bilibili/bangumiMonitor.js, tag=哔哩哔哩番剧监控, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/bilibili.png, enabled=true",
-        "0 1 0 1 * ? https://raw.githubusercontent.com/lowking/Scripts/master/bilibili/privilegeReceive.js, tag=哔哩哔哩大会员特权领取, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/bilibili.png, enabled=true",
-        "0 10 0 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/pupu/pupuCheckIn.js, tag=朴朴, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/pupu.png, enabled=true",
-        "0 0 0,1 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/douyu/yubaSign.js, tag=斗鱼鱼吧, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/douyu.png, enabled=true",
-        "0 0 0 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/sony/sonyClub.js, tag=索尼俱乐部, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/SONY.png, enabled=true",
-        "0 0 0,1 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/weibo/weiboSTCookie.js, tag=微博超话, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/weibo.png, enabled=true",
+        "0 0 0,1 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/QQPet/lkQQPet.js, tag=QQ萌宠, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/QQ.png, enabled=true",
+        "0 0 0,1 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/QQVip/qqVipCheckIn.js, tag=qq会员成长值, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/qqvip.png, enabled=true",
+        "0 0 0,1 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/bilibili/bangumiMonitor.js, tag=哔哩哔哩番剧监控, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/bilibili.png, enabled=true",
+        "0 1 0 1 * ? https://raw.githubusercontent.com/lowking/Scripts/master/bilibili/privilegeReceive.js, tag=哔哩哔哩大会员特权领取, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/bilibili.png, enabled=true",
+        "0 10 0 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/pupu/pupuCheckIn.js, tag=朴朴, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/pupu.png, enabled=true",
+        "0 0 0,1 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/douyu/yubaSign.js, tag=斗鱼鱼吧, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/douyu.png, enabled=true",
+        "0 0 0 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/sony/sonyClub.js, tag=索尼俱乐部, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SONY.png, enabled=true",
+        "0 0 0,1 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/weibo/weiboSTCookie.js, tag=微博超话, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/weibo.png, enabled=true",
     ]
 }
