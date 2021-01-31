@@ -2,6 +2,8 @@
     "name": "passerby-b",
     "description": "https://gitee.com/passerby-b/javascript",
     "task": [
-        "0 9 * * * https://gitee.com/passerby-b/javascript/raw/master/unipay.js, tag=云闪付, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/unipay.png, enabled=true",
+        "0 9 * * * https://gitee.com/passerby-b/javascript/raw/master/unipay.js, tag=云闪付, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/unipay.png, enabled=true",
+        "*/30 * * * * * https://gitee.com/passerby-b/javascript/raw/master/dyjs.js, tag=抖音极速版刷音符, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/dyjs.png, enabled=true",
+        "*/30 * * * * * https://gitee.com/passerby-b/javascript/raw/master/dyjs.js, tag=小火山极速版刷音符, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/xhsjs.png, enabled=true",
     ]
 }
