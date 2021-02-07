@@ -2,12 +2,12 @@
     "name": "wangdelu2020",
     "description": "https://github.com/wangdelu2020/hongliyu",
     "task": [
-        "0 2,13,25,45,55 0-23 * * ? https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/momosign.js, tag=陌陌极速版签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/momo.png, enabled=true",
-        "0 9 * * * https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/quwalk2.2.js, tag=趣走签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/quwalk.png, enabled=true",
-        "0 0/2 * * * ? https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/htt_task_4.js, tag=惠头条, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/htt.png, enabled=true",
-        "0 21,31,50 0-22 * * ? https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/qktx_task3.js, tag=趣看天下, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/qktx.png, enabled=true",
-        "0 2,13,25,45,55 0-23 * * ? https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/wxdaka.js, tag=微信小程序打卡签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/wxdaka.png, enabled=true",
-        "0 30 6-23 * * ? https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/liantongnotice.js, tag=联通流量话费提醒, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/10010.png, enabled=true",
-        "0 30 0,6 * * ? https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/newsinachaohua.js, tag=新浪微博超话签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/weibo.png, enabled=true",
+        "0 2,13,25,45,55 0-23 * * ? https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/momosign.js, tag=陌陌极速版签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/momo.png, enabled=true",
+        "0 9 * * * https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/quwalk2.2.js, tag=趣走签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/quwalk.png, enabled=true",
+        "0 0/2 * * * ? https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/htt_task_4.js, tag=惠头条, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/htt.png, enabled=true",
+        "0 21,31,50 0-22 * * ? https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/qktx_task3.js, tag=趣看天下, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/qktx.png, enabled=true",
+        "0 2,13,25,45,55 0-23 * * ? https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/wxdaka.js, tag=微信小程序打卡签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/wxdaka.png, enabled=true",
+        "0 30 6-23 * * ? https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/liantongnotice.js, tag=联通流量话费提醒, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/10010.png, enabled=true",
+        "0 30 0,6 * * ? https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/newsinachaohua.js, tag=新浪微博超话签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/weibo.png, enabled=true",
     ]
 }
