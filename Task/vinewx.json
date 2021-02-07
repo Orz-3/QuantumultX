@@ -2,8 +2,8 @@
     "name": "vinewx",
     "description": "https://ooxx.be/js/",
     "task": [
-        "0 9 * * * https://ooxx.be/js/jegotrip.js, tag=无忧行, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jegotrip.png, enabled=true",
-        "0 18 * * * https://ooxx.be/js/maoyan.js, tag=猫眼电影, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/maoyan.png, enabled=true",
-        "0 9 * * * https://ooxx.be/js/umer.js, tag=优麦医生, img-url=https://raw.githubusercontent.com/Orz-3/mini/master//umer.png, enabled=true",
+        "0 9 * * * https://ooxx.be/js/jegotrip.js, tag=无忧行, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jegotrip.png, enabled=true",
+        "0 18 * * * https://ooxx.be/js/maoyan.js, tag=猫眼电影, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/maoyan.png, enabled=true",
+        "0 9 * * * https://ooxx.be/js/umer.js, tag=优麦医生, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/umer.png, enabled=true",
     ]
 }
