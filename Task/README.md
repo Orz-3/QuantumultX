@@ -48,10 +48,6 @@ QQ萌宠|QQ会员成长值|哔哩哔哩番剧监控|哔哩哔哩大会员特权�
 
 小木虫论坛|微博超话|京东价格提醒
 
-➽ [lxk0301](https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Task/lxk0301.json)
-
-京东摇钱树|京东宠汪汪|京东天天加速|东东农场|京东萌宠|种豆得豆|京小超 等等
-
 ➽ [vinewx](https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Task/vinewx.json)
 
 无忧行|猫眼电影|优麦医生
@@ -118,8 +114,6 @@ QQ阅读|海德汇一城|民盈国贸城|趣客有礼|水滴筹保险商城小�
   * [@songyangzz](https://github.com/songyangzz)
     
   * [@toulanboy](https://github.com/toulanboy)
-  
-  * [@lxk0301](https://gitee.com/lxk0301)
   
   * [@vinewx](https://ooxx.be/js/)
   
