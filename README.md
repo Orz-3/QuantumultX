@@ -1,5 +1,3 @@
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/yaofan.png)
-
 ## QuantumultX小白配置
 
 ### 配置说明：
