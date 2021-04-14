@@ -57,8 +57,6 @@
  
  * [@yichahucha](https://github.com/yichahucha)
 
- * [@onewayticket255](https://github.com/onewayticket255)
-
  * [@Choler](https://github.com/Choler)
  
  * [@srk24](https://github.com/srk24)
