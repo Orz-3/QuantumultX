@@ -63,7 +63,7 @@
  
  * [@blackmatrix7](https://github.com/blackmatrix7)
  
- *  #### BoxJSJS作者： 
+ *  #### BoxJS作者： 
 
  * [@chavyleung](https://github.com/chavyleung)
  
