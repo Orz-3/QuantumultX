@@ -27,7 +27,7 @@ async function SwitchRegion(play) {
 
 	if (area) {
 		const change = await $.setPolicy(Group, area);
-		const notify = $.read('BiliAreaNotify') === 'flase';
+		const notify = $.read('BiliAreaNotify') === 'false';
 		const msg = `${current}  =>  ${change?area:'sub-policy error ⚠️'}  =>  ${change?`🟢`:`🔴`}`;
 		if (!notify) $.notify(/^http/.test(play) || !play ? `` : play, ``, msg);
 		else console.log(`${/^http/.test(play)||!play?``:play}\n${msg}`);
