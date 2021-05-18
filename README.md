@@ -73,6 +73,8 @@
  * [@srk24](https://github.com/srk24)
  
  * [@blackmatrix7](https://github.com/blackmatrix7)
+
+ * [@JDHelloWorld](https://github.com/JDHelloWorld)
  
 #### BoxJS作者： 
 
