@@ -2,7 +2,7 @@
     "name": "DD-D1",
     "description": "https://github.com/DD-D1/2020scripts",
     "task": [
-        "0 10 0 * * * https://github.com/DD-D1/2020scripts/blob/master/QQReadSign.js, tag=QQ阅读, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/QQRead.png, enabled=true",    
+        "0 10 0 * * * https://raw.githubusercontent.com/DD-D1/2020scripts/master/QQReadSign.js, tag=QQ阅读, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/QQRead.png, enabled=true",    
         "0 10 0 * * * https://raw.githubusercontent.com/DD-D1/2020scripts/master/hdhycSign.js, tag=海德汇一城, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/hdhyc.png, enabled=true",    
         "0 10 0 * * * https://raw.githubusercontent.com/DD-D1/2020scripts/master/jddsSign.js, tag=京东读书签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jdds.png, enabled=true",    
         "0 10 0 * * * https://raw.githubusercontent.com/DD-D1/2020scripts/master/mygmcSign.js, tag=民盈国贸城, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/mygmc.png, enabled=true",   
