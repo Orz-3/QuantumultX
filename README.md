@@ -76,6 +76,8 @@
 
  * [@JDHelloWorld](https://github.com/JDHelloWorld)
  
+ * [@JDHelloWorld](https://github.com/StimeKe)
+
 #### BoxJS作者： 
 
  * [@chavyleung](https://github.com/chavyleung)
