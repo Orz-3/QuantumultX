@@ -88,6 +88,8 @@ BoxJS访问地址设定为 http://boxjs.com:9999/
  * [@JDHelloWorld](https://github.com/JDHelloWorld)
  
  * [@StimeKe](https://github.com/StimeKe)
+ 
+ * [@app2smile](https://github.com/app2smile)
 
 #### BoxJS作者： 
 
