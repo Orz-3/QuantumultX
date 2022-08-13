@@ -58,7 +58,7 @@
   
 ## BoxJS
 
-BoxJS访问地址设定为 http://boxjs.com:9999/
+BoxJS访问地址设定为 http://boxjs.com/
 
 
 
