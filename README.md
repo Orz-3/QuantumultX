@@ -77,7 +77,7 @@ BoxJS访问地址设定为 http://boxjs.com/
   
   * [@fmz200](https://github.com/fmz200)
   
-  张军
+  * Telegram-张军
 
  #### JS脚本作者： 
  
