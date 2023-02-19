@@ -72,10 +72,14 @@ BoxJS访问地址设定为 http://boxjs.com/
   * [@KOP-XIAO](https://github.com/KOP-XIAO)
 
   * [@JasonLee-Go](https://github.com/JasonLee-Go)
+  
+  * [@NobyDa](https://github.com/NobyDa)
+  
+  * [@fmz200](https://github.com/fmz200)
+  
+  张军
 
  #### JS脚本作者： 
-
- * [@NobyDa](https://github.com/NobyDa)
  
  * [@yichahucha](https://github.com/yichahucha)
 
