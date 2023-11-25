@@ -4,7 +4,7 @@
 
 ### 配置说明：
 
-  本配置基于blackmatrix7的规则，按个人使用习惯设置了默认策略组、正则筛选策略组，以及一些其他的重写和脚本等<br>
+本配置由神机规则修改而来，，按个人使用习惯设置了默认策略组、正则筛选策略组。使用了Shawn的解析器和部分脚本，修改了默认策略组，增加了正则筛选策略组，并集成了多个作者的脚本及重写。附带按task脚本作者分类的task订阅，可按需求订阅<br>
 
 ### 使用方法：
 
@@ -62,36 +62,37 @@ BoxJS访问地址设定为 http://boxjs.com/
 #### 特别感谢：
 
   * [@ConnersHua](https://github.com/ConnersHua)
-
-  * [@blackmatrix7](https://github.com/blackmatrix7)
  
   * [@KOP-XIAO](https://github.com/KOP-XIAO)
 
   * [@JasonLee-Go](https://github.com/JasonLee-Go)
   
   * [@NobyDa](https://github.com/NobyDa)
-  
-  * [@fmz200](https://github.com/fmz200)
 
   * [@ddgksf2013](https://github.com/ddgksf2013)
   
-  * Telegram-张军
-
- #### JS脚本作者： 
- 
- * [@yichahucha](https://github.com/yichahucha)
-
- * [@Choler](https://github.com/Choler)
- 
- * [@srk24](https://github.com/srk24)
- 
- * [@JDHelloWorld](https://github.com/JDHelloWorld)
- 
- * [@StimeKe](https://github.com/StimeKe)
- 
- * [@app2smile](https://github.com/app2smile)
+  * [@app2smile](https://github.com/app2smile)
 
 #### BoxJS作者： 
 
- * [@chavyleung](https://github.com/chavyleung)
+  * [@chavyleung](https://github.com/chavyleung)
  
+#### Sub-Store作者： 
+
+  * [@Peng-YM](https://github.com/Peng-YM)
+   
+
+#### JS脚本作者： 
+ 
+  * [@yichahucha](https://github.com/yichahucha)
+
+  * [@Choler](https://github.com/Choler)
+ 
+  * [@srk24](https://github.com/srk24)
+ 
+  * [@JDHelloWorld](https://github.com/JDHelloWorld)
+ 
+  * [@StimeKe](https://github.com/StimeKe)
+ 
+  * [@app2smile](https://github.com/app2smile)
+
