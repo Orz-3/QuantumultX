@@ -48,7 +48,7 @@
   
   Cookie：这个是Task脚本获取Cookie用的，Task脚本请在Task文件夹内按需求添加订阅，使用需额外在重写中启用JS-GetCookie，并按脚本中说明获取cookie方可用
 
-  Tiktok枷锁：默认已解锁Tiktok日区，如需改区，本地在[rewrite_local]下方添加(?<=_region=)CN(?=&) url 307 JP  将JP更改成你想改的区域<br>
+  Tiktok解锁：（需要抓包旧版本的，不会的禁用吧，用不了的）默认已解锁Tiktok日区，如需改区，本地在[rewrite_local]下方添加(?<=_region=)CN(?=&) url 307 JP  将JP更改成你想改的区域<br>
   
 ## BoxJS
 
